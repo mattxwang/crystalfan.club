@@ -52,10 +52,5 @@ html {
 .link {
   color: inherit;
   font-weight: bold;
-  text-decoration: none;
-  background-position-y: 0%;
-  background-image: linear-gradient(#F5F6F6 50%, #81A2C9 50%);
-  background-size: auto 175%;
-
-  display:inline-block;
+  text-decoration-color: #81A2C9;
 }
